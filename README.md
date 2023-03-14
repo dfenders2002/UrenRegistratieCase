@@ -1,2 +1,5 @@
 # UrenRegistratieCase
-Opdracht voor Jump
+## Opdracht voor Jump
+
+### in de front end folder gebruik 
+npm start
