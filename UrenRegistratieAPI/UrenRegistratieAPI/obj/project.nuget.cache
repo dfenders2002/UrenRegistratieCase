@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2MGRSYMSf6LC2aEwtzXy1W5eB6obEGkQmuvUv7Xa/TjII3zvAC0VvjwKLQ3AgLMeBuQpWX5INxLIaLjV77hRMQ==",
+  "dgSpecHash": "s5CI2fc1p0ao7gb9O9yBkaA523J2lcJl3R/7o50X5Cz+rvgPTOqcjcrXQQpTXSstbgByxKlz6qvS7sO54d3bBg==",
   "success": true,
-  "projectFilePath": "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
+  "projectFilePath": "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dfend\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dfend\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

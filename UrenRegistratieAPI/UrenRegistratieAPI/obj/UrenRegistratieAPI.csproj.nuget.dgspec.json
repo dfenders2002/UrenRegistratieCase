@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj": {}
+    "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj": {}
   },
   "projects": {
-    "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj": {
+    "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
+        "projectUniqueName": "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
         "projectName": "UrenRegistratieAPI",
-        "projectPath": "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
+        "projectPath": "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\UrenRegistratieAPI.csproj",
         "packagesPath": "C:\\Users\\dfend\\.nuget\\packages\\",
-        "outputPath": "D:\\UrenRegistratie\\UrenRegistratieAPI\\UrenRegistratieAPI\\obj\\",
+        "outputPath": "D:\\UrenRegistratie\\UrenRegistratieCase\\UrenRegistratieAPI\\UrenRegistratieAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
