@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrenRegistratieAPI", "UrenRegistratieAPI\UrenRegistratieAPI.csproj", "{EBEFF2F3-4763-4CAE-B0A2-9FE0AD3C0FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEFF2F3-4763-4CAE-B0A2-9FE0AD3C0FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEFF2F3-4763-4CAE-B0A2-9FE0AD3C0FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEFF2F3-4763-4CAE-B0A2-9FE0AD3C0FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEFF2F3-4763-4CAE-B0A2-9FE0AD3C0FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B434D44B-37E9-4CE0-9203-0723F268EF4A}
+	EndGlobalSection
+EndGlobal
